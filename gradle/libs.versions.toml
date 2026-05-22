@@ -2,7 +2,7 @@
 kotlin = "2.2.21"
 ksp = "2.2.21-2.0.0"
 kotlinx-coroutines = "1.10.0"
-kotlinx-datetime = "0.6.2"
+kotlinx-datetime = "0.8.0"
 kotlinx-serialization = "1.8.1"
 apollo-kotlin-execution = "0.1.2"
 tapmoc = "0.3.0"
