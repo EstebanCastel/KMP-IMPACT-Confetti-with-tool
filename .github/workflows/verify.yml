@@ -1,0 +1,22 @@
+name: Github CI
+
+on: pull_request
+
+jobs:
+  verify:
+    runs-on: ubuntu-22.04
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        lfs: 'true'
+
+    - uses: gradle/wrapper-validation-action@v3
+
+    - name: Validate Renovate
+      uses: rinchsan/renovate-config-validator@v0.2.0
+      with:
+        pattern: 'renovate.json'
+
+    - name: Check GIT lfs images
+      run: |
+        ./.github/scripts/git-lfs-check.sh
