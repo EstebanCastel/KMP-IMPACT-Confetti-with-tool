@@ -1,0 +1,907 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2250 4112" width="2250" height="4112" font-family="system-ui,sans-serif"><rect width="100%" height="100%" fill="#F5F4F0"/><text x="30" y="22" font-size="14" font-weight="700" fill="#1F2937">Propagation tree</text><text x="30" y="38" font-size="11" fill="#6B7280">Same hierarchy as the sunburst, flattened for reading.</text>
+<path d="M 30.0 2290.0 C 130.0 2290.0, 130.0 586.0, 230.0 586.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 230.0 586.0 C 330.0 586.0, 330.0 586.0, 430.0 586.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 430.0 586.0 C 530.0 586.0, 530.0 586.0, 630.0 586.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 630.0 586.0 C 730.0 586.0, 730.0 586.0, 830.0 586.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 830.0 586.0 C 930.0 586.0, 930.0 52.0, 1030.0 52.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 830.0 586.0 C 930.0 586.0, 930.0 76.0, 1030.0 76.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 830.0 586.0 C 930.0 586.0, 930.0 100.0, 1030.0 100.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 100.0 C 1130.0 100.0, 1130.0 100.0, 1230.0 100.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 830.0 586.0 C 930.0 586.0, 930.0 304.0, 1030.0 304.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 304.0 C 1130.0 304.0, 1130.0 124.0, 1230.0 124.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 304.0 C 1130.0 304.0, 1130.0 148.0, 1230.0 148.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 304.0 C 1130.0 304.0, 1130.0 172.0, 1230.0 172.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 304.0 C 1130.0 304.0, 1130.0 196.0, 1230.0 196.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 304.0 C 1130.0 304.0, 1130.0 220.0, 1230.0 220.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 304.0 C 1130.0 304.0, 1130.0 244.0, 1230.0 244.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 304.0 C 1130.0 304.0, 1130.0 268.0, 1230.0 268.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 304.0 C 1130.0 304.0, 1130.0 292.0, 1230.0 292.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 304.0 C 1130.0 304.0, 1130.0 316.0, 1230.0 316.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 304.0 C 1130.0 304.0, 1130.0 340.0, 1230.0 340.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 304.0 C 1130.0 304.0, 1130.0 364.0, 1230.0 364.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 304.0 C 1130.0 304.0, 1130.0 388.0, 1230.0 388.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 304.0 C 1130.0 304.0, 1130.0 412.0, 1230.0 412.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 304.0 C 1130.0 304.0, 1130.0 436.0, 1230.0 436.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 304.0 C 1130.0 304.0, 1130.0 460.0, 1230.0 460.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 304.0 C 1130.0 304.0, 1130.0 484.0, 1230.0 484.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 830.0 586.0 C 930.0 586.0, 930.0 508.0, 1030.0 508.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 508.0 C 1130.0 508.0, 1130.0 508.0, 1230.0 508.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 830.0 586.0 C 930.0 586.0, 930.0 532.0, 1030.0 532.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 830.0 586.0 C 930.0 586.0, 930.0 790.0, 1030.0 790.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 790.0 C 1130.0 790.0, 1130.0 556.0, 1230.0 556.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 790.0 C 1130.0 790.0, 1130.0 580.0, 1230.0 580.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 790.0 C 1130.0 790.0, 1130.0 604.0, 1230.0 604.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 790.0 C 1130.0 790.0, 1130.0 628.0, 1230.0 628.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 790.0 C 1130.0 790.0, 1130.0 652.0, 1230.0 652.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 790.0 C 1130.0 790.0, 1130.0 688.0, 1230.0 688.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 688.0 C 1330.0 688.0, 1330.0 676.0, 1430.0 676.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 688.0 C 1330.0 688.0, 1330.0 700.0, 1430.0 700.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 790.0 C 1130.0 790.0, 1130.0 736.0, 1230.0 736.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 736.0 C 1330.0 736.0, 1330.0 724.0, 1430.0 724.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 736.0 C 1330.0 736.0, 1330.0 748.0, 1430.0 748.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 790.0 C 1130.0 790.0, 1130.0 844.0, 1230.0 844.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 844.0 C 1330.0 844.0, 1330.0 772.0, 1430.0 772.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 844.0 C 1330.0 844.0, 1330.0 796.0, 1430.0 796.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 844.0 C 1330.0 844.0, 1330.0 820.0, 1430.0 820.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 844.0 C 1330.0 844.0, 1330.0 844.0, 1430.0 844.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 844.0 C 1330.0 844.0, 1330.0 868.0, 1430.0 868.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 844.0 C 1330.0 844.0, 1330.0 892.0, 1430.0 892.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 844.0 C 1330.0 844.0, 1330.0 916.0, 1430.0 916.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 790.0 C 1130.0 790.0, 1130.0 940.0, 1230.0 940.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 940.0 C 1330.0 940.0, 1330.0 940.0, 1430.0 940.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 790.0 C 1130.0 790.0, 1130.0 976.0, 1230.0 976.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 976.0 C 1330.0 976.0, 1330.0 964.0, 1430.0 964.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 976.0 C 1330.0 976.0, 1330.0 988.0, 1430.0 988.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 790.0 C 1130.0 790.0, 1130.0 1024.0, 1230.0 1024.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 1024.0 C 1330.0 1024.0, 1330.0 1012.0, 1430.0 1012.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 1024.0 C 1330.0 1024.0, 1330.0 1036.0, 1430.0 1036.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 830.0 586.0 C 930.0 586.0, 930.0 1072.0, 1030.0 1072.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 1072.0 C 1130.0 1072.0, 1130.0 1060.0, 1230.0 1060.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 1072.0 C 1130.0 1072.0, 1130.0 1084.0, 1230.0 1084.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 830.0 586.0 C 930.0 586.0, 930.0 1120.0, 1030.0 1120.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 1120.0 C 1130.0 1120.0, 1130.0 1108.0, 1230.0 1108.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 1120.0 C 1130.0 1120.0, 1130.0 1132.0, 1230.0 1132.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 30.0 2290.0 C 130.0 2290.0, 130.0 1204.0, 230.0 1204.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 230.0 1204.0 C 330.0 1204.0, 330.0 1204.0, 430.0 1204.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 430.0 1204.0 C 530.0 1204.0, 530.0 1204.0, 630.0 1204.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 630.0 1204.0 C 730.0 1204.0, 730.0 1204.0, 830.0 1204.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 830.0 1204.0 C 930.0 1204.0, 930.0 1156.0, 1030.0 1156.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 1156.0 C 1130.0 1156.0, 1130.0 1156.0, 1230.0 1156.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 830.0 1204.0 C 930.0 1204.0, 930.0 1180.0, 1030.0 1180.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 1180.0 C 1130.0 1180.0, 1130.0 1180.0, 1230.0 1180.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 830.0 1204.0 C 930.0 1204.0, 930.0 1204.0, 1030.0 1204.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 1204.0 C 1130.0 1204.0, 1130.0 1204.0, 1230.0 1204.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 830.0 1204.0 C 930.0 1204.0, 930.0 1252.0, 1030.0 1252.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 1252.0 C 1130.0 1252.0, 1130.0 1228.0, 1230.0 1228.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 1252.0 C 1130.0 1252.0, 1130.0 1252.0, 1230.0 1252.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 1252.0 C 1130.0 1252.0, 1130.0 1276.0, 1230.0 1276.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 30.0 2290.0 C 130.0 2290.0, 130.0 1348.0, 230.0 1348.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 230.0 1348.0 C 330.0 1348.0, 330.0 1348.0, 430.0 1348.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 430.0 1348.0 C 530.0 1348.0, 530.0 1348.0, 630.0 1348.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 630.0 1348.0 C 730.0 1348.0, 730.0 1348.0, 830.0 1348.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 830.0 1348.0 C 930.0 1348.0, 930.0 1300.0, 1030.0 1300.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 1300.0 C 1130.0 1300.0, 1130.0 1300.0, 1230.0 1300.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 830.0 1348.0 C 930.0 1348.0, 930.0 1336.0, 1030.0 1336.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 1336.0 C 1130.0 1336.0, 1130.0 1324.0, 1230.0 1324.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 1336.0 C 1130.0 1336.0, 1130.0 1348.0, 1230.0 1348.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 830.0 1348.0 C 930.0 1348.0, 930.0 1372.0, 1030.0 1372.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 1372.0 C 1130.0 1372.0, 1130.0 1372.0, 1230.0 1372.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 830.0 1348.0 C 930.0 1348.0, 930.0 1396.0, 1030.0 1396.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 1396.0 C 1130.0 1396.0, 1130.0 1396.0, 1230.0 1396.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 30.0 2290.0 C 130.0 2290.0, 130.0 1531.0, 230.0 1531.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 230.0 1531.0 C 330.0 1531.0, 330.0 1531.0, 430.0 1531.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 430.0 1531.0 C 530.0 1531.0, 530.0 1531.0, 630.0 1531.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 630.0 1531.0 C 730.0 1531.0, 730.0 1531.0, 830.0 1531.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 830.0 1531.0 C 930.0 1531.0, 930.0 1420.0, 1030.0 1420.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 830.0 1531.0 C 930.0 1531.0, 930.0 1444.0, 1030.0 1444.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 830.0 1531.0 C 930.0 1531.0, 930.0 1642.0, 1030.0 1642.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 1642.0 C 1130.0 1642.0, 1130.0 1468.0, 1230.0 1468.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 1642.0 C 1130.0 1642.0, 1130.0 1492.0, 1230.0 1492.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 1642.0 C 1130.0 1642.0, 1130.0 1516.0, 1230.0 1516.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 1642.0 C 1130.0 1642.0, 1130.0 1540.0, 1230.0 1540.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 1642.0 C 1130.0 1642.0, 1130.0 1564.0, 1230.0 1564.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 1642.0 C 1130.0 1642.0, 1130.0 1588.0, 1230.0 1588.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 1642.0 C 1130.0 1642.0, 1130.0 1612.0, 1230.0 1612.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 1642.0 C 1130.0 1642.0, 1130.0 1684.0, 1230.0 1684.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 1684.0 C 1330.0 1684.0, 1330.0 1636.0, 1430.0 1636.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 1684.0 C 1330.0 1684.0, 1330.0 1660.0, 1430.0 1660.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 1684.0 C 1330.0 1684.0, 1330.0 1684.0, 1430.0 1684.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 1684.0 C 1330.0 1684.0, 1330.0 1708.0, 1430.0 1708.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 1684.0 C 1330.0 1684.0, 1330.0 1732.0, 1430.0 1732.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 1642.0 C 1130.0 1642.0, 1130.0 1768.0, 1230.0 1768.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 1768.0 C 1330.0 1768.0, 1330.0 1756.0, 1430.0 1756.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 1768.0 C 1330.0 1768.0, 1330.0 1780.0, 1430.0 1780.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 1642.0 C 1130.0 1642.0, 1130.0 1816.0, 1230.0 1816.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 1816.0 C 1330.0 1816.0, 1330.0 1804.0, 1430.0 1804.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 1816.0 C 1330.0 1816.0, 1330.0 1828.0, 1430.0 1828.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 30.0 2290.0 C 130.0 2290.0, 130.0 1852.0, 230.0 1852.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 230.0 1852.0 C 330.0 1852.0, 330.0 1852.0, 430.0 1852.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 430.0 1852.0 C 530.0 1852.0, 530.0 1852.0, 630.0 1852.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 630.0 1852.0 C 730.0 1852.0, 730.0 1852.0, 830.0 1852.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 830.0 1852.0 C 930.0 1852.0, 930.0 1852.0, 1030.0 1852.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 1852.0 C 1130.0 1852.0, 1130.0 1852.0, 1230.0 1852.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 30.0 2290.0 C 130.0 2290.0, 130.0 1876.0, 230.0 1876.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 230.0 1876.0 C 330.0 1876.0, 330.0 1876.0, 430.0 1876.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 430.0 1876.0 C 530.0 1876.0, 530.0 1876.0, 630.0 1876.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 630.0 1876.0 C 730.0 1876.0, 730.0 1876.0, 830.0 1876.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 830.0 1876.0 C 930.0 1876.0, 930.0 1876.0, 1030.0 1876.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 1876.0 C 1130.0 1876.0, 1130.0 1876.0, 1230.0 1876.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 30.0 2290.0 C 130.0 2290.0, 130.0 1924.0, 230.0 1924.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 230.0 1924.0 C 330.0 1924.0, 330.0 1924.0, 430.0 1924.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 430.0 1924.0 C 530.0 1924.0, 530.0 1924.0, 630.0 1924.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 630.0 1924.0 C 730.0 1924.0, 730.0 1924.0, 830.0 1924.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 830.0 1924.0 C 930.0 1924.0, 930.0 1924.0, 1030.0 1924.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 1924.0 C 1130.0 1924.0, 1130.0 1924.0, 1230.0 1924.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 1924.0 C 1330.0 1924.0, 1330.0 1900.0, 1430.0 1900.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 1924.0 C 1330.0 1924.0, 1330.0 1924.0, 1430.0 1924.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 1924.0 C 1530.0 1924.0, 1530.0 1924.0, 1630.0 1924.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 1924.0 C 1330.0 1924.0, 1330.0 1948.0, 1430.0 1948.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 1948.0 C 1530.0 1948.0, 1530.0 1948.0, 1630.0 1948.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 30.0 2290.0 C 130.0 2290.0, 130.0 2173.0, 230.0 2173.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 230.0 2173.0 C 330.0 2173.0, 330.0 2110.0, 430.0 2110.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 430.0 2110.0 C 530.0 2110.0, 530.0 2110.0, 630.0 2110.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 630.0 2110.0 C 730.0 2110.0, 730.0 2110.0, 830.0 2110.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 830.0 2110.0 C 930.0 2110.0, 930.0 2032.0, 1030.0 2032.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 2032.0 C 1130.0 2032.0, 1130.0 2032.0, 1230.0 2032.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 2032.0 C 1330.0 2032.0, 1330.0 1972.0, 1430.0 1972.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 2032.0 C 1330.0 2032.0, 1330.0 1996.0, 1430.0 1996.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 2032.0 C 1330.0 2032.0, 1330.0 2020.0, 1430.0 2020.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 2032.0 C 1330.0 2032.0, 1330.0 2044.0, 1430.0 2044.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 2032.0 C 1330.0 2032.0, 1330.0 2068.0, 1430.0 2068.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 2032.0 C 1330.0 2032.0, 1330.0 2092.0, 1430.0 2092.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 830.0 2110.0 C 930.0 2110.0, 930.0 2116.0, 1030.0 2116.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 2116.0 C 1130.0 2116.0, 1130.0 2116.0, 1230.0 2116.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 830.0 2110.0 C 930.0 2110.0, 930.0 2140.0, 1030.0 2140.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 2140.0 C 1130.0 2140.0, 1130.0 2140.0, 1230.0 2140.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 830.0 2110.0 C 930.0 2110.0, 930.0 2164.0, 1030.0 2164.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 2164.0 C 1130.0 2164.0, 1130.0 2164.0, 1230.0 2164.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 830.0 2110.0 C 930.0 2110.0, 930.0 2188.0, 1030.0 2188.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 2188.0 C 1130.0 2188.0, 1130.0 2188.0, 1230.0 2188.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 230.0 2173.0 C 330.0 2173.0, 330.0 2212.0, 430.0 2212.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 230.0 2173.0 C 330.0 2173.0, 330.0 2236.0, 430.0 2236.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 30.0 2290.0 C 130.0 2290.0, 130.0 2272.0, 230.0 2272.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 230.0 2272.0 C 330.0 2272.0, 330.0 2260.0, 430.0 2260.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 430.0 2260.0 C 530.0 2260.0, 530.0 2260.0, 630.0 2260.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 230.0 2272.0 C 330.0 2272.0, 330.0 2284.0, 430.0 2284.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 430.0 2284.0 C 530.0 2284.0, 530.0 2284.0, 630.0 2284.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 630.0 2284.0 C 730.0 2284.0, 730.0 2284.0, 830.0 2284.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 830.0 2284.0 C 930.0 2284.0, 930.0 2284.0, 1030.0 2284.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 30.0 2290.0 C 130.0 2290.0, 130.0 3334.0, 230.0 3334.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 230.0 3334.0 C 330.0 3334.0, 330.0 2824.0, 430.0 2824.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 430.0 2824.0 C 530.0 2824.0, 530.0 2824.0, 630.0 2824.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 630.0 2824.0 C 730.0 2824.0, 730.0 2824.0, 830.0 2824.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 830.0 2824.0 C 930.0 2824.0, 930.0 2824.0, 1030.0 2824.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 2824.0 C 1130.0 2824.0, 1130.0 2308.0, 1230.0 2308.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 2824.0 C 1130.0 2824.0, 1130.0 2332.0, 1230.0 2332.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 2824.0 C 1130.0 2824.0, 1130.0 2368.0, 1230.0 2368.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 2368.0 C 1330.0 2368.0, 1330.0 2356.0, 1430.0 2356.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 2368.0 C 1330.0 2368.0, 1330.0 2380.0, 1430.0 2380.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 2824.0 C 1130.0 2824.0, 1130.0 2416.0, 1230.0 2416.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 2416.0 C 1330.0 2416.0, 1330.0 2404.0, 1430.0 2404.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 2416.0 C 1330.0 2416.0, 1330.0 2428.0, 1430.0 2428.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 2428.0 C 1530.0 2428.0, 1530.0 2428.0, 1630.0 2428.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 2824.0 C 1130.0 2824.0, 1130.0 2452.0, 1230.0 2452.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 2824.0 C 1130.0 2824.0, 1130.0 2668.0, 1230.0 2668.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 2668.0 C 1330.0 2668.0, 1330.0 2476.0, 1430.0 2476.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 2668.0 C 1330.0 2668.0, 1330.0 2500.0, 1430.0 2500.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 2500.0 C 1530.0 2500.0, 1530.0 2500.0, 1630.0 2500.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 2668.0 C 1330.0 2668.0, 1330.0 2524.0, 1430.0 2524.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 2524.0 C 1530.0 2524.0, 1530.0 2524.0, 1630.0 2524.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 2668.0 C 1330.0 2668.0, 1330.0 2560.0, 1430.0 2560.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 2560.0 C 1530.0 2560.0, 1530.0 2548.0, 1630.0 2548.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 2560.0 C 1530.0 2560.0, 1530.0 2572.0, 1630.0 2572.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1630.0 2572.0 C 1730.0 2572.0, 1730.0 2572.0, 1830.0 2572.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 2668.0 C 1330.0 2668.0, 1330.0 2596.0, 1430.0 2596.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 2596.0 C 1530.0 2596.0, 1530.0 2596.0, 1630.0 2596.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 2668.0 C 1330.0 2668.0, 1330.0 2620.0, 1430.0 2620.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 2620.0 C 1530.0 2620.0, 1530.0 2620.0, 1630.0 2620.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 2668.0 C 1330.0 2668.0, 1330.0 2656.0, 1430.0 2656.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 2656.0 C 1530.0 2656.0, 1530.0 2644.0, 1630.0 2644.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 2656.0 C 1530.0 2656.0, 1530.0 2668.0, 1630.0 2668.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1630.0 2668.0 C 1730.0 2668.0, 1730.0 2668.0, 1830.0 2668.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 2668.0 C 1330.0 2668.0, 1330.0 2704.0, 1430.0 2704.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 2704.0 C 1530.0 2704.0, 1530.0 2692.0, 1630.0 2692.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 2704.0 C 1530.0 2704.0, 1530.0 2716.0, 1630.0 2716.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 2668.0 C 1330.0 2668.0, 1330.0 2758.0, 1430.0 2758.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 2758.0 C 1530.0 2758.0, 1530.0 2740.0, 1630.0 2740.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 2758.0 C 1530.0 2758.0, 1530.0 2776.0, 1630.0 2776.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1630.0 2776.0 C 1730.0 2776.0, 1730.0 2764.0, 1830.0 2764.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1630.0 2776.0 C 1730.0 2776.0, 1730.0 2788.0, 1830.0 2788.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 2668.0 C 1330.0 2668.0, 1330.0 2824.0, 1430.0 2824.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 2824.0 C 1530.0 2824.0, 1530.0 2812.0, 1630.0 2812.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 2824.0 C 1530.0 2824.0, 1530.0 2836.0, 1630.0 2836.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 2668.0 C 1330.0 2668.0, 1330.0 2860.0, 1430.0 2860.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 2860.0 C 1530.0 2860.0, 1530.0 2860.0, 1630.0 2860.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 2824.0 C 1130.0 2824.0, 1130.0 3340.0, 1230.0 3340.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 3340.0 C 1330.0 3340.0, 1330.0 2884.0, 1430.0 2884.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 3340.0 C 1330.0 3340.0, 1330.0 2908.0, 1430.0 2908.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 3340.0 C 1330.0 3340.0, 1330.0 2932.0, 1430.0 2932.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 3340.0 C 1330.0 3340.0, 1330.0 2956.0, 1430.0 2956.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 2956.0 C 1530.0 2956.0, 1530.0 2956.0, 1630.0 2956.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 3340.0 C 1330.0 3340.0, 1330.0 2992.0, 1430.0 2992.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 2992.0 C 1530.0 2992.0, 1530.0 2980.0, 1630.0 2980.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 2992.0 C 1530.0 2992.0, 1530.0 3004.0, 1630.0 3004.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 3340.0 C 1330.0 3340.0, 1330.0 3052.0, 1430.0 3052.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 3052.0 C 1530.0 3052.0, 1530.0 3028.0, 1630.0 3028.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 3052.0 C 1530.0 3052.0, 1530.0 3052.0, 1630.0 3052.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 3052.0 C 1530.0 3052.0, 1530.0 3076.0, 1630.0 3076.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 3340.0 C 1330.0 3340.0, 1330.0 3112.0, 1430.0 3112.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 3112.0 C 1530.0 3112.0, 1530.0 3100.0, 1630.0 3100.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 3112.0 C 1530.0 3112.0, 1530.0 3124.0, 1630.0 3124.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 3340.0 C 1330.0 3340.0, 1330.0 3148.0, 1430.0 3148.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 3148.0 C 1530.0 3148.0, 1530.0 3148.0, 1630.0 3148.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 3340.0 C 1330.0 3340.0, 1330.0 3172.0, 1430.0 3172.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 3172.0 C 1530.0 3172.0, 1530.0 3172.0, 1630.0 3172.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 3340.0 C 1330.0 3340.0, 1330.0 3220.0, 1430.0 3220.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 3220.0 C 1530.0 3220.0, 1530.0 3196.0, 1630.0 3196.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 3220.0 C 1530.0 3220.0, 1530.0 3220.0, 1630.0 3220.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 3220.0 C 1530.0 3220.0, 1530.0 3244.0, 1630.0 3244.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 3340.0 C 1330.0 3340.0, 1330.0 3292.0, 1430.0 3292.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 3292.0 C 1530.0 3292.0, 1530.0 3268.0, 1630.0 3268.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 3292.0 C 1530.0 3292.0, 1530.0 3292.0, 1630.0 3292.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 3292.0 C 1530.0 3292.0, 1530.0 3316.0, 1630.0 3316.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 3340.0 C 1330.0 3340.0, 1330.0 3340.0, 1430.0 3340.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 3340.0 C 1530.0 3340.0, 1530.0 3340.0, 1630.0 3340.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 3340.0 C 1330.0 3340.0, 1330.0 3388.0, 1430.0 3388.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 3388.0 C 1530.0 3388.0, 1530.0 3364.0, 1630.0 3364.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 3388.0 C 1530.0 3388.0, 1530.0 3388.0, 1630.0 3388.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 3388.0 C 1530.0 3388.0, 1530.0 3412.0, 1630.0 3412.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 3340.0 C 1330.0 3340.0, 1330.0 3448.0, 1430.0 3448.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 3448.0 C 1530.0 3448.0, 1530.0 3436.0, 1630.0 3436.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 3448.0 C 1530.0 3448.0, 1530.0 3460.0, 1630.0 3460.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 3340.0 C 1330.0 3340.0, 1330.0 3508.0, 1430.0 3508.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 3508.0 C 1530.0 3508.0, 1530.0 3484.0, 1630.0 3484.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 3508.0 C 1530.0 3508.0, 1530.0 3508.0, 1630.0 3508.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 3508.0 C 1530.0 3508.0, 1530.0 3532.0, 1630.0 3532.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 3340.0 C 1330.0 3340.0, 1330.0 3592.0, 1430.0 3592.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 3592.0 C 1530.0 3592.0, 1530.0 3556.0, 1630.0 3556.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 3592.0 C 1530.0 3592.0, 1530.0 3580.0, 1630.0 3580.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 3592.0 C 1530.0 3592.0, 1530.0 3604.0, 1630.0 3604.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 3592.0 C 1530.0 3592.0, 1530.0 3628.0, 1630.0 3628.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 3340.0 C 1330.0 3340.0, 1330.0 3652.0, 1430.0 3652.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 3652.0 C 1530.0 3652.0, 1530.0 3652.0, 1630.0 3652.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 3340.0 C 1330.0 3340.0, 1330.0 3688.0, 1430.0 3688.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 3688.0 C 1530.0 3688.0, 1530.0 3676.0, 1630.0 3676.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 3688.0 C 1530.0 3688.0, 1530.0 3700.0, 1630.0 3700.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 3340.0 C 1330.0 3340.0, 1330.0 3748.0, 1430.0 3748.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 3748.0 C 1530.0 3748.0, 1530.0 3724.0, 1630.0 3724.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 3748.0 C 1530.0 3748.0, 1530.0 3748.0, 1630.0 3748.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 3748.0 C 1530.0 3748.0, 1530.0 3772.0, 1630.0 3772.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 3340.0 C 1330.0 3340.0, 1330.0 3796.0, 1430.0 3796.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1430.0 3796.0 C 1530.0 3796.0, 1530.0 3796.0, 1630.0 3796.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 230.0 3334.0 C 330.0 3334.0, 330.0 3844.0, 430.0 3844.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 430.0 3844.0 C 530.0 3844.0, 530.0 3844.0, 630.0 3844.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 630.0 3844.0 C 730.0 3844.0, 730.0 3844.0, 830.0 3844.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 830.0 3844.0 C 930.0 3844.0, 930.0 3844.0, 1030.0 3844.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 3844.0 C 1130.0 3844.0, 1130.0 3820.0, 1230.0 3820.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 3844.0 C 1130.0 3844.0, 1130.0 3844.0, 1230.0 3844.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 3844.0 C 1330.0 3844.0, 1330.0 3844.0, 1430.0 3844.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 3844.0 C 1130.0 3844.0, 1130.0 3868.0, 1230.0 3868.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 3868.0 C 1330.0 3868.0, 1330.0 3868.0, 1430.0 3868.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 30.0 2290.0 C 130.0 2290.0, 130.0 3910.0, 230.0 3910.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 230.0 3910.0 C 330.0 3910.0, 330.0 3892.0, 430.0 3892.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 230.0 3910.0 C 330.0 3910.0, 330.0 3928.0, 430.0 3928.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 430.0 3928.0 C 530.0 3928.0, 530.0 3928.0, 630.0 3928.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 630.0 3928.0 C 730.0 3928.0, 730.0 3928.0, 830.0 3928.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 830.0 3928.0 C 930.0 3928.0, 930.0 3928.0, 1030.0 3928.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 3928.0 C 1130.0 3928.0, 1130.0 3928.0, 1230.0 3928.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 3928.0 C 1330.0 3928.0, 1330.0 3916.0, 1430.0 3916.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1230.0 3928.0 C 1330.0 3928.0, 1330.0 3940.0, 1430.0 3940.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 30.0 2290.0 C 130.0 2290.0, 130.0 3994.0, 230.0 3994.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 230.0 3994.0 C 330.0 3994.0, 330.0 3964.0, 430.0 3964.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 230.0 3994.0 C 330.0 3994.0, 330.0 4024.0, 430.0 4024.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 430.0 4024.0 C 530.0 4024.0, 530.0 4024.0, 630.0 4024.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 630.0 4024.0 C 730.0 4024.0, 730.0 4024.0, 830.0 4024.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 830.0 4024.0 C 930.0 4024.0, 930.0 3988.0, 1030.0 3988.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 3988.0 C 1130.0 3988.0, 1130.0 3988.0, 1230.0 3988.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 830.0 4024.0 C 930.0 4024.0, 930.0 4012.0, 1030.0 4012.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 4012.0 C 1130.0 4012.0, 1130.0 4012.0, 1230.0 4012.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 830.0 4024.0 C 930.0 4024.0, 930.0 4036.0, 1030.0 4036.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 4036.0 C 1130.0 4036.0, 1130.0 4036.0, 1230.0 4036.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 830.0 4024.0 C 930.0 4024.0, 930.0 4060.0, 1030.0 4060.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<path d="M 1030.0 4060.0 C 1130.0 4060.0, 1130.0 4060.0, 1230.0 4060.0" fill="none" stroke="#CBD5E1" stroke-width="1.4" stroke-opacity="0.85"/>
+<circle cx="30.0" cy="2290.0" r="6" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="20.0" y="2294.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">src</text>
+<circle cx="230.0" cy="586.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="220.0" y="590.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">commonMain</text>
+<circle cx="430.0" cy="586.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="420.0" y="590.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">dev</text>
+<circle cx="630.0" cy="586.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="620.0" y="590.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">johnoreilly</text>
+<circle cx="830.0" cy="586.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="820.0" y="590.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">confetti</text>
+<circle cx="1030.0" cy="52.0" r="4" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1040.0" y="56.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">ApolloClientCache</text>
+<circle cx="1030.0" cy="76.0" r="4" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1040.0" y="80.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">ConfettiRepository</text>
+<circle cx="1030.0" cy="100.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1020.0" y="104.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">auth</text>
+<circle cx="1230.0" cy="100.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1240.0" y="104.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">User</text>
+<circle cx="1030.0" cy="304.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1020.0" y="308.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">decompose</text>
+<circle cx="1230.0" cy="124.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1240.0" y="128.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">AppComponent</text>
+<circle cx="1230.0" cy="148.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1240.0" y="152.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">BookmarksComponent</text>
+<circle cx="1230.0" cy="172.0" r="4" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1240.0" y="176.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">ConferenceComponent</text>
+<circle cx="1230.0" cy="196.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1240.0" y="200.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">ConferencesComponent</text>
+<circle cx="1230.0" cy="220.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1240.0" y="224.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">ConferencesVenueComponent</text>
+<circle cx="1230.0" cy="244.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1240.0" y="248.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">HomeComponent</text>
+<circle cx="1230.0" cy="268.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1240.0" y="272.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">JobConferenceRefresh</text>
+<circle cx="1230.0" cy="292.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1240.0" y="296.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">RecommendationsComponent</text>
+<circle cx="1230.0" cy="316.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1240.0" y="320.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">SearchComponent</text>
+<circle cx="1230.0" cy="340.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1240.0" y="344.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">SessionDetailsComponent</text>
+<circle cx="1230.0" cy="364.0" r="4" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1240.0" y="368.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">SessionsComponent</text>
+<circle cx="1230.0" cy="388.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1240.0" y="392.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">SettingsComponent</text>
+<circle cx="1230.0" cy="412.0" r="4" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1240.0" y="416.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">SignInComponent</text>
+<circle cx="1230.0" cy="436.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1240.0" y="440.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">SpeakerDetailsComponent</text>
+<circle cx="1230.0" cy="460.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1240.0" y="464.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">SpeakersComponent</text>
+<circle cx="1230.0" cy="484.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1240.0" y="488.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">VenueComponent</text>
+<circle cx="1030.0" cy="508.0" r="5" fill="#FFF" stroke="#7C3AED" stroke-width="2.5"/>
+<text x="1020.0" y="512.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">di</text>
+<circle cx="1230.0" cy="508.0" r="4" fill="#FFF" stroke="#7C3AED" stroke-width="2.5"/>
+<text x="1240.0" y="512.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">Koin</text>
+<circle cx="1030.0" cy="532.0" r="4" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1040.0" y="536.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">fetchPolicy</text>
+<circle cx="1030.0" cy="790.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1020.0" y="794.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">ui</text>
+<circle cx="1230.0" cy="556.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1240.0" y="560.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">App</text>
+<circle cx="1230.0" cy="580.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1240.0" y="584.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">ConferenceListView</text>
+<circle cx="1230.0" cy="604.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1240.0" y="608.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">ConferenceMaterialTheme</text>
+<circle cx="1230.0" cy="628.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1240.0" y="632.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">GeminiQueryView</text>
+<circle cx="1230.0" cy="652.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1240.0" y="656.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">HomeScaffold</text>
+<circle cx="1230.0" cy="688.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1220.0" y="692.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">bookmarks</text>
+<circle cx="1430.0" cy="676.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1440.0" y="680.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">BookmarksUI</text>
+<circle cx="1430.0" cy="700.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1440.0" y="704.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">BookmarksView</text>
+<circle cx="1230.0" cy="736.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1220.0" y="740.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">search</text>
+<circle cx="1430.0" cy="724.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1440.0" y="728.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">SearchUI</text>
+<circle cx="1430.0" cy="748.0" r="4" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1440.0" y="752.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">SearchView</text>
+<circle cx="1230.0" cy="844.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1220.0" y="848.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">sessions</text>
+<circle cx="1430.0" cy="772.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1440.0" y="776.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">SessionDetailsViewShared</text>
+<circle cx="1430.0" cy="796.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1440.0" y="800.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">SessionItemView</text>
+<circle cx="1430.0" cy="820.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1440.0" y="824.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">SessionListGridView</text>
+<circle cx="1430.0" cy="844.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1440.0" y="848.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">SessionListTabRow</text>
+<circle cx="1430.0" cy="868.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1440.0" y="872.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">SessionListView</text>
+<circle cx="1430.0" cy="892.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1440.0" y="896.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">SessionsDetailsUI</text>
+<circle cx="1430.0" cy="916.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1440.0" y="920.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">SessionsUI</text>
+<circle cx="1230.0" cy="940.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1220.0" y="944.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">settings</text>
+<circle cx="1430.0" cy="940.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1440.0" y="944.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">SettingsUI</text>
+<circle cx="1230.0" cy="976.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1220.0" y="980.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">speakers</text>
+<circle cx="1430.0" cy="964.0" r="4" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1440.0" y="968.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">SpeakersDetailsView</text>
+<circle cx="1430.0" cy="988.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1440.0" y="992.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">SpeakersUI</text>
+<circle cx="1230.0" cy="1024.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1220.0" y="1028.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">venue</text>
+<circle cx="1430.0" cy="1012.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1440.0" y="1016.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">VenueUI</text>
+<circle cx="1430.0" cy="1036.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1440.0" y="1040.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">VenueView</text>
+<circle cx="1030.0" cy="1072.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1020.0" y="1076.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">utils</text>
+<circle cx="1230.0" cy="1060.0" r="4" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1240.0" y="1064.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">ApolloDebugServer</text>
+<circle cx="1230.0" cy="1084.0" r="4" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1240.0" y="1088.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">ClientQuery</text>
+<circle cx="1030.0" cy="1120.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1020.0" y="1124.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">work</text>
+<circle cx="1230.0" cy="1108.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1240.0" y="1112.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">ConferenceSetting</text>
+<circle cx="1230.0" cy="1132.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1240.0" y="1136.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">work</text>
+<circle cx="230.0" cy="1204.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="220.0" y="1208.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">androidMain</text>
+<circle cx="430.0" cy="1204.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="420.0" y="1208.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">dev</text>
+<circle cx="630.0" cy="1204.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="620.0" y="1208.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">johnoreilly</text>
+<circle cx="830.0" cy="1204.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="820.0" y="1208.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">confetti</text>
+<circle cx="1030.0" cy="1156.0" r="5" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1020.0" y="1160.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">account</text>
+<circle cx="1230.0" cy="1156.0" r="4" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1240.0" y="1160.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">SignInProcess</text>
+<circle cx="1030.0" cy="1180.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1020.0" y="1184.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">di</text>
+<circle cx="1230.0" cy="1180.0" r="4" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1240.0" y="1184.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">KoinAndroid</text>
+<circle cx="1030.0" cy="1204.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1020.0" y="1208.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">notifications</text>
+<circle cx="1230.0" cy="1204.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1240.0" y="1208.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">NotificationReceiver</text>
+<circle cx="1030.0" cy="1252.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1020.0" y="1256.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">work</text>
+<circle cx="1230.0" cy="1228.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1240.0" y="1232.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">RefreshWorker</text>
+<circle cx="1230.0" cy="1252.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1240.0" y="1256.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">SessionNotificationSender</text>
+<circle cx="1230.0" cy="1276.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1240.0" y="1280.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">WorkManagerConferenceRefr…</text>
+<circle cx="230.0" cy="1348.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="220.0" y="1352.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">iosMain</text>
+<circle cx="430.0" cy="1348.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="420.0" y="1352.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">dev</text>
+<circle cx="630.0" cy="1348.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="620.0" y="1352.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">johnoreilly</text>
+<circle cx="830.0" cy="1348.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="820.0" y="1352.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">confetti</text>
+<circle cx="1030.0" cy="1300.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1020.0" y="1304.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">di</text>
+<circle cx="1230.0" cy="1300.0" r="4" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1240.0" y="1304.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">KoiniOS</text>
+<circle cx="1030.0" cy="1336.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1020.0" y="1340.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">ui</text>
+<circle cx="1230.0" cy="1324.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1240.0" y="1328.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">MainViewController</text>
+<circle cx="1230.0" cy="1348.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1240.0" y="1352.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">SharedViewControllers</text>
+<circle cx="1030.0" cy="1372.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1020.0" y="1376.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">utils</text>
+<circle cx="1230.0" cy="1372.0" r="4" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1240.0" y="1376.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">ApolloDebugServer</text>
+<circle cx="1030.0" cy="1396.0" r="5" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1020.0" y="1400.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">work</text>
+<circle cx="1230.0" cy="1396.0" r="4" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1240.0" y="1400.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">SessionNotificationSender</text>
+<circle cx="230.0" cy="1531.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="220.0" y="1535.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">commonTest</text>
+<circle cx="430.0" cy="1531.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="420.0" y="1535.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">dev</text>
+<circle cx="630.0" cy="1531.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="620.0" y="1535.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">johnoreilly</text>
+<circle cx="830.0" cy="1531.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="820.0" y="1535.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">confetti</text>
+<circle cx="1030.0" cy="1420.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1040.0" y="1424.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">BaseScreenshotTest</text>
+<circle cx="1030.0" cy="1444.0" r="4" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1040.0" y="1448.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">SpeakerDetailsScTest</text>
+<circle cx="1030.0" cy="1642.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1020.0" y="1646.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">wear</text>
+<circle cx="1230.0" cy="1468.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1240.0" y="1472.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">BookmarksStatesTest</text>
+<circle cx="1230.0" cy="1492.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1240.0" y="1496.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">BookmarksTest</text>
+<circle cx="1230.0" cy="1516.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1240.0" y="1520.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">ConferenceScreenTest</text>
+<circle cx="1230.0" cy="1540.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1240.0" y="1544.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">SessionsDetailsTest</text>
+<circle cx="1230.0" cy="1564.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1240.0" y="1568.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">SessionsScreenTest</text>
+<circle cx="1230.0" cy="1588.0" r="4" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1240.0" y="1592.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">SettingsScreenTest</text>
+<circle cx="1230.0" cy="1612.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1240.0" y="1616.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">SpeakerDetailsTest</text>
+<circle cx="1230.0" cy="1684.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1220.0" y="1688.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">app</text>
+<circle cx="1430.0" cy="1636.0" r="4" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1440.0" y="1640.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">AppTest</text>
+<circle cx="1430.0" cy="1660.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1440.0" y="1664.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">BaseAppTest</text>
+<circle cx="1430.0" cy="1684.0" r="4" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1440.0" y="1688.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">NavigationTest</text>
+<circle cx="1430.0" cy="1708.0" r="4" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1440.0" y="1712.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">OfflineTest</text>
+<circle cx="1430.0" cy="1732.0" r="4" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1440.0" y="1736.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">WorkManagerTest</text>
+<circle cx="1230.0" cy="1768.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1220.0" y="1772.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">screenshots</text>
+<circle cx="1430.0" cy="1756.0" r="4" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1440.0" y="1760.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">BaseScreenshotTest</text>
+<circle cx="1430.0" cy="1780.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1440.0" y="1784.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">FetchDataTest</text>
+<circle cx="1230.0" cy="1816.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1220.0" y="1820.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">surfaces</text>
+<circle cx="1430.0" cy="1804.0" r="4" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1440.0" y="1808.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">ComplicationScreenshotTest</text>
+<circle cx="1430.0" cy="1828.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1440.0" y="1832.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">TileScreenshotTest</text>
+<circle cx="230.0" cy="1852.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="220.0" y="1856.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">androidDebug</text>
+<circle cx="430.0" cy="1852.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="420.0" y="1856.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">dev</text>
+<circle cx="630.0" cy="1852.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="620.0" y="1856.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">johnoreilly</text>
+<circle cx="830.0" cy="1852.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="820.0" y="1856.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">confetti</text>
+<circle cx="1030.0" cy="1852.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1020.0" y="1856.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">utils</text>
+<circle cx="1230.0" cy="1852.0" r="4" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1240.0" y="1856.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">ApolloDebugServer</text>
+<circle cx="230.0" cy="1876.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="220.0" y="1880.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">androidRelease</text>
+<circle cx="430.0" cy="1876.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="420.0" y="1880.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">dev</text>
+<circle cx="630.0" cy="1876.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="620.0" y="1880.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">johnoreilly</text>
+<circle cx="830.0" cy="1876.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="820.0" y="1880.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">confetti</text>
+<circle cx="1030.0" cy="1876.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1020.0" y="1880.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">utils</text>
+<circle cx="1230.0" cy="1876.0" r="4" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1240.0" y="1880.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">ApolloDebugServer</text>
+<circle cx="230.0" cy="1924.0" r="5" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="220.0" y="1928.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">debug</text>
+<circle cx="430.0" cy="1924.0" r="5" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="420.0" y="1928.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">java</text>
+<circle cx="630.0" cy="1924.0" r="5" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="620.0" y="1928.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">dev</text>
+<circle cx="830.0" cy="1924.0" r="5" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="820.0" y="1928.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">johnoreilly</text>
+<circle cx="1030.0" cy="1924.0" r="5" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1020.0" y="1928.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">confetti</text>
+<circle cx="1230.0" cy="1924.0" r="5" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1220.0" y="1928.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">wear</text>
+<circle cx="1430.0" cy="1900.0" r="4" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1440.0" y="1904.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">TestScaffold</text>
+<circle cx="1430.0" cy="1924.0" r="5" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1420.0" y="1928.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">tile</text>
+<circle cx="1630.0" cy="1924.0" r="4" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1640.0" y="1928.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">LoginTilePreview</text>
+<circle cx="1430.0" cy="1948.0" r="5" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1420.0" y="1952.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">ui</text>
+<circle cx="1630.0" cy="1948.0" r="4" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1640.0" y="1952.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">ThemePreview</text>
+<circle cx="230.0" cy="2173.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="220.0" y="2177.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">jvmMain</text>
+<circle cx="430.0" cy="2110.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="420.0" y="2114.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">dev</text>
+<circle cx="630.0" cy="2110.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="620.0" y="2114.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">johnoreilly</text>
+<circle cx="830.0" cy="2110.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="820.0" y="2114.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">confetti</text>
+<circle cx="1030.0" cy="2032.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1020.0" y="2036.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">backend</text>
+<circle cx="1230.0" cy="2032.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1220.0" y="2036.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">import</text>
+<circle cx="1430.0" cy="1972.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1440.0" y="1976.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">DeepAI</text>
+<circle cx="1430.0" cy="1996.0" r="4" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1440.0" y="2000.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">DevfestLille</text>
+<circle cx="1430.0" cy="2020.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1440.0" y="2024.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">DroidConSF</text>
+<circle cx="1430.0" cy="2044.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1440.0" y="2048.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">DroidconItaly2025</text>
+<circle cx="1430.0" cy="2068.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1440.0" y="2072.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">FrenchKit</text>
+<circle cx="1430.0" cy="2092.0" r="4" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1440.0" y="2096.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">GridTable</text>
+<circle cx="1030.0" cy="2116.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1020.0" y="2120.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">di</text>
+<circle cx="1230.0" cy="2116.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1240.0" y="2120.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">KoinJVM</text>
+<circle cx="1030.0" cy="2140.0" r="5" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1020.0" y="2144.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">ui</text>
+<circle cx="1230.0" cy="2140.0" r="4" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1240.0" y="2144.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">SessionDetailsViewSharedW…</text>
+<circle cx="1030.0" cy="2164.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1020.0" y="2168.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">utils</text>
+<circle cx="1230.0" cy="2164.0" r="4" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1240.0" y="2168.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">ApolloDebugServer</text>
+<circle cx="1030.0" cy="2188.0" r="5" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1020.0" y="2192.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">work</text>
+<circle cx="1230.0" cy="2188.0" r="4" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1240.0" y="2192.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">SessionNotificationSender</text>
+<circle cx="430.0" cy="2212.0" r="4" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="440.0" y="2216.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">Main</text>
+<circle cx="430.0" cy="2236.0" r="4" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="440.0" y="2240.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">Main</text>
+<circle cx="230.0" cy="2272.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="220.0" y="2276.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">jvmTest</text>
+<circle cx="430.0" cy="2260.0" r="5" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="420.0" y="2264.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">test</text>
+<circle cx="630.0" cy="2260.0" r="4" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="640.0" y="2264.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">MainTest</text>
+<circle cx="430.0" cy="2284.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="420.0" y="2288.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">dev</text>
+<circle cx="630.0" cy="2284.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="620.0" y="2288.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">johnoreilly</text>
+<circle cx="830.0" cy="2284.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="820.0" y="2288.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">confetti</text>
+<circle cx="1030.0" cy="2284.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1040.0" y="2288.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">MainTest</text>
+<circle cx="230.0" cy="3334.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="220.0" y="3338.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">main</text>
+<circle cx="430.0" cy="2824.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="420.0" y="2828.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">java</text>
+<circle cx="630.0" cy="2824.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="620.0" y="2828.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">dev</text>
+<circle cx="830.0" cy="2824.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="820.0" y="2828.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">johnoreilly</text>
+<circle cx="1030.0" cy="2824.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1020.0" y="2828.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">confetti</text>
+<circle cx="1230.0" cy="2308.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1240.0" y="2312.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">ConfettiApplication</text>
+<circle cx="1230.0" cy="2332.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1240.0" y="2336.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">MainActivity</text>
+<circle cx="1230.0" cy="2368.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1220.0" y="2372.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">di</text>
+<circle cx="1430.0" cy="2356.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1440.0" y="2360.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">AppModule</text>
+<circle cx="1430.0" cy="2380.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1440.0" y="2384.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">AppModule</text>
+<circle cx="1230.0" cy="2416.0" r="5" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1220.0" y="2420.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">ui</text>
+<circle cx="1430.0" cy="2404.0" r="4" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1440.0" y="2408.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">Theme</text>
+<circle cx="1430.0" cy="2428.0" r="5" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1420.0" y="2432.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">component</text>
+<circle cx="1630.0" cy="2428.0" r="4" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1640.0" y="2432.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">Background</text>
+<circle cx="1230.0" cy="2452.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1240.0" y="2456.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">ConfettiApplication</text>
+<circle cx="1230.0" cy="2668.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1220.0" y="2672.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">car</text>
+<circle cx="1430.0" cy="2476.0" r="4" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1440.0" y="2480.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">ConfettiCarAppService</text>
+<circle cx="1430.0" cy="2500.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1420.0" y="2504.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">bookmarks</text>
+<circle cx="1630.0" cy="2500.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1640.0" y="2504.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">BookmarksScreen</text>
+<circle cx="1430.0" cy="2524.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1420.0" y="2528.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">conferences</text>
+<circle cx="1630.0" cy="2524.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1640.0" y="2528.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">ConferencesScreen</text>
+<circle cx="1430.0" cy="2560.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1420.0" y="2564.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">navigation</text>
+<circle cx="1630.0" cy="2548.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1640.0" y="2552.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">NavigationScreen</text>
+<circle cx="1630.0" cy="2572.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1620.0" y="2576.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">details</text>
+<circle cx="1830.0" cy="2572.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1840.0" y="2576.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">NavigationDetailsScreen</text>
+<circle cx="1430.0" cy="2596.0" r="5" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1420.0" y="2600.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">permissions</text>
+<circle cx="1630.0" cy="2596.0" r="4" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1640.0" y="2600.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">PermissionScreen</text>
+<circle cx="1430.0" cy="2620.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1420.0" y="2624.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">search</text>
+<circle cx="1630.0" cy="2620.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1640.0" y="2624.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">SearchScreen</text>
+<circle cx="1430.0" cy="2656.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1420.0" y="2660.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">sessions</text>
+<circle cx="1630.0" cy="2644.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1640.0" y="2648.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">SessionsScreen</text>
+<circle cx="1630.0" cy="2668.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1620.0" y="2672.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">details</text>
+<circle cx="1830.0" cy="2668.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1840.0" y="2672.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">SessionDetailsScreen</text>
+<circle cx="1430.0" cy="2704.0" r="5" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1420.0" y="2708.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">signin</text>
+<circle cx="1630.0" cy="2692.0" r="4" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1640.0" y="2696.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">SignInScreen</text>
+<circle cx="1630.0" cy="2716.0" r="4" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1640.0" y="2720.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">SignInWithGoogleActivity</text>
+<circle cx="1430.0" cy="2758.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1420.0" y="2762.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">speakers</text>
+<circle cx="1630.0" cy="2740.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1640.0" y="2744.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">SpeakersScreen</text>
+<circle cx="1630.0" cy="2776.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1620.0" y="2780.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">details</text>
+<circle cx="1830.0" cy="2764.0" r="4" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1840.0" y="2768.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">SpeakerBiographyScreen</text>
+<circle cx="1830.0" cy="2788.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1840.0" y="2792.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">SpeakerDetailsScreen</text>
+<circle cx="1430.0" cy="2824.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1420.0" y="2828.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">ui</text>
+<circle cx="1630.0" cy="2812.0" r="4" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1640.0" y="2816.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">ErrorScreen</text>
+<circle cx="1630.0" cy="2836.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1640.0" y="2840.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">MoreScreen</text>
+<circle cx="1430.0" cy="2860.0" r="5" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1420.0" y="2864.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">utils</text>
+<circle cx="1630.0" cy="2860.0" r="4" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1640.0" y="2864.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">AutoUtils</text>
+<circle cx="1230.0" cy="3340.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1220.0" y="3344.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">wear</text>
+<circle cx="1430.0" cy="2884.0" r="4" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1440.0" y="2888.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">AppUiState</text>
+<circle cx="1430.0" cy="2908.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1440.0" y="2912.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">ConfettiApplication</text>
+<circle cx="1430.0" cy="2932.0" r="4" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1440.0" y="2936.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">MainActivity</text>
+<circle cx="1430.0" cy="2956.0" r="5" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1420.0" y="2960.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">auth</text>
+<circle cx="1630.0" cy="2956.0" r="4" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1640.0" y="2960.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">WearAuthentication</text>
+<circle cx="1430.0" cy="2992.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1420.0" y="2996.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">bookmarks</text>
+<circle cx="1630.0" cy="2980.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1640.0" y="2984.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">BookmarksComponent</text>
+<circle cx="1630.0" cy="3004.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1640.0" y="3008.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">BookmarksScreen</text>
+<circle cx="1430.0" cy="3052.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1420.0" y="3056.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">complication</text>
+<circle cx="1630.0" cy="3028.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1640.0" y="3032.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">NextSessionComplicationDa…</text>
+<circle cx="1630.0" cy="3052.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1640.0" y="3056.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">NextSessionComplicationSe…</text>
+<circle cx="1630.0" cy="3076.0" r="4" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1640.0" y="3080.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">NextSessionTemplate</text>
+<circle cx="1430.0" cy="3112.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1420.0" y="3116.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">components</text>
+<circle cx="1630.0" cy="3100.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1640.0" y="3104.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">SessionCard</text>
+<circle cx="1630.0" cy="3124.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1640.0" y="3128.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">SessionSpeakerChip</text>
+<circle cx="1430.0" cy="3148.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1420.0" y="3152.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">conferences</text>
+<circle cx="1630.0" cy="3148.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1640.0" y="3152.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">ConferencesView</text>
+<circle cx="1430.0" cy="3172.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1420.0" y="3176.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">di</text>
+<circle cx="1630.0" cy="3172.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1640.0" y="3176.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">AppModule</text>
+<circle cx="1430.0" cy="3220.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1420.0" y="3224.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">home</text>
+<circle cx="1630.0" cy="3196.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1640.0" y="3200.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">HomeComponent</text>
+<circle cx="1630.0" cy="3220.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1640.0" y="3224.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">HomeRoute</text>
+<circle cx="1630.0" cy="3244.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1640.0" y="3248.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">HomeScreen</text>
+<circle cx="1430.0" cy="3292.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1420.0" y="3296.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">navigation</text>
+<circle cx="1630.0" cy="3268.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1640.0" y="3272.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">Child</text>
+<circle cx="1630.0" cy="3292.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1640.0" y="3296.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">Routing</text>
+<circle cx="1630.0" cy="3316.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1640.0" y="3320.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">WearAppComponent</text>
+<circle cx="1430.0" cy="3340.0" r="5" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1420.0" y="3344.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">networks</text>
+<circle cx="1630.0" cy="3340.0" r="4" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1640.0" y="3344.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">WearNetworkingRules</text>
+<circle cx="1430.0" cy="3388.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1420.0" y="3392.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">preview</text>
+<circle cx="1630.0" cy="3364.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1640.0" y="3368.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">ConferenceFixtures</text>
+<circle cx="1630.0" cy="3388.0" r="4" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1640.0" y="3392.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">ConfettiPreviewScaffold</text>
+<circle cx="1630.0" cy="3412.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1640.0" y="3416.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">TestFixtures</text>
+<circle cx="1430.0" cy="3448.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1420.0" y="3452.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">sessiondetails</text>
+<circle cx="1630.0" cy="3436.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1640.0" y="3440.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">SessionDetailsRoute</text>
+<circle cx="1630.0" cy="3460.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1640.0" y="3464.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">SessionDetailsView</text>
+<circle cx="1430.0" cy="3508.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1420.0" y="3512.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">sessions</text>
+<circle cx="1630.0" cy="3484.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1640.0" y="3488.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">ConferenceSessionsCompone…</text>
+<circle cx="1630.0" cy="3508.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1640.0" y="3512.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">SessionsRoute</text>
+<circle cx="1630.0" cy="3532.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1640.0" y="3536.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">SessionsScreen</text>
+<circle cx="1430.0" cy="3592.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1420.0" y="3596.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">settings</text>
+<circle cx="1630.0" cy="3556.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1640.0" y="3560.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">PhoneSettingsSync</text>
+<circle cx="1630.0" cy="3580.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1640.0" y="3584.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">SettingsComponent</text>
+<circle cx="1630.0" cy="3604.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1640.0" y="3608.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">SettingsListView</text>
+<circle cx="1630.0" cy="3628.0" r="4" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1640.0" y="3632.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">SettingsUiState</text>
+<circle cx="1430.0" cy="3652.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1420.0" y="3656.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">speakerdetails</text>
+<circle cx="1630.0" cy="3652.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1640.0" y="3656.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">SpeakerDetailsView</text>
+<circle cx="1430.0" cy="3688.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1420.0" y="3692.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">tile</text>
+<circle cx="1630.0" cy="3676.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1640.0" y="3680.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">CurrentSessionsData</text>
+<circle cx="1630.0" cy="3700.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1640.0" y="3704.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">CurrentSessionsTileService</text>
+<circle cx="1430.0" cy="3748.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1420.0" y="3752.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">ui</text>
+<circle cx="1630.0" cy="3724.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1640.0" y="3728.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">ConferenceTheme</text>
+<circle cx="1630.0" cy="3748.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1640.0" y="3752.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">ConfettiApp</text>
+<circle cx="1630.0" cy="3772.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1640.0" y="3776.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">FontFamilies</text>
+<circle cx="1430.0" cy="3796.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1420.0" y="3800.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">work</text>
+<circle cx="1630.0" cy="3796.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1640.0" y="3800.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">WearConferenceSetting</text>
+<circle cx="430.0" cy="3844.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="420.0" y="3848.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">dev</text>
+<circle cx="630.0" cy="3844.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="620.0" y="3848.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">johnoreilly</text>
+<circle cx="830.0" cy="3844.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="820.0" y="3848.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">confetti</text>
+<circle cx="1030.0" cy="3844.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1020.0" y="3848.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">backend</text>
+<circle cx="1230.0" cy="3820.0" r="4" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1240.0" y="3824.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">DefaultApplication</text>
+<circle cx="1230.0" cy="3844.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1220.0" y="3848.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">graphql</text>
+<circle cx="1430.0" cy="3844.0" r="4" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1440.0" y="3848.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">model</text>
+<circle cx="1230.0" cy="3868.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1220.0" y="3872.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">resize</text>
+<circle cx="1430.0" cy="3868.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1440.0" y="3872.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">AvatarFetcher</text>
+<circle cx="230.0" cy="3910.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="220.0" y="3914.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">screenshotTest</text>
+<circle cx="430.0" cy="3892.0" r="4" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="440.0" y="3896.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">ScreenshotTest</text>
+<circle cx="430.0" cy="3928.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="420.0" y="3932.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">java</text>
+<circle cx="630.0" cy="3928.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="620.0" y="3932.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">dev</text>
+<circle cx="830.0" cy="3928.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="820.0" y="3932.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">johnoreilly</text>
+<circle cx="1030.0" cy="3928.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1020.0" y="3932.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">confetti</text>
+<circle cx="1230.0" cy="3928.0" r="5" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1220.0" y="3932.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">wear</text>
+<circle cx="1430.0" cy="3916.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1440.0" y="3920.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">ConferenceHomeScreenTest</text>
+<circle cx="1430.0" cy="3940.0" r="4" fill="#FFF" stroke="#1D4ED8" stroke-width="2.5"/>
+<text x="1440.0" y="3944.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">SessionDetailsScreenTest</text>
+<circle cx="230.0" cy="3994.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="220.0" y="3998.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">wasmJsMain</text>
+<circle cx="430.0" cy="3964.0" r="4" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="440.0" y="3968.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">Main</text>
+<circle cx="430.0" cy="4024.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="420.0" y="4028.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">dev</text>
+<circle cx="630.0" cy="4024.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="620.0" y="4028.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">johnoreilly</text>
+<circle cx="830.0" cy="4024.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="820.0" y="4028.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">confetti</text>
+<circle cx="1030.0" cy="3988.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1020.0" y="3992.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">di</text>
+<circle cx="1230.0" cy="3988.0" r="4" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1240.0" y="3992.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">KoinWasmJs</text>
+<circle cx="1030.0" cy="4012.0" r="5" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1020.0" y="4016.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">ui</text>
+<circle cx="1230.0" cy="4012.0" r="4" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1240.0" y="4016.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">SessionDetailsViewSharedW…</text>
+<circle cx="1030.0" cy="4036.0" r="5" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1020.0" y="4040.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">utils</text>
+<circle cx="1230.0" cy="4036.0" r="4" fill="#FFF" stroke="#B91C1C" stroke-width="2.5"/>
+<text x="1240.0" y="4040.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">ApolloDebugServer</text>
+<circle cx="1030.0" cy="4060.0" r="5" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1020.0" y="4064.0" font-size="11" font-weight="600" text-anchor="end" fill="#1F2937">work</text>
+<circle cx="1230.0" cy="4060.0" r="4" fill="#FFF" stroke="#60A5FA" stroke-width="2.5"/>
+<text x="1240.0" y="4064.0" font-size="11" font-weight="500" text-anchor="start" fill="#1F2937">SessionNotificationSender</text>
+</svg>

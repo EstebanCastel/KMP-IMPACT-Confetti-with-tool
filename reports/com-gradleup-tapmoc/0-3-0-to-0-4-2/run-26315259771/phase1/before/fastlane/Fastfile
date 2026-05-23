@@ -1,0 +1,145 @@
+fastlane_version "2.68.0"
+
+default_platform :android
+
+platform :android do
+
+    androidVersionNum = 259
+    wearVersionNum = 332
+
+    before_all do
+    end
+
+    desc "Runs all the tests"
+    lane :test do
+        gradle(task: "test")
+    end
+
+    desc "Deploy app to play store alpha channel"
+    lane :deployAlpha do |options|
+
+        gradle(task: 'clean')
+        gradle(
+              task: ":androidApp:bundleRelease",
+              properties: {
+                  'versionNum' => androidVersionNum
+              }
+        )
+
+        supply(
+            package_name: "dev.johnoreilly.confetti",
+            track: "alpha",
+            aab: "androidApp/build/outputs/bundle/release/androidApp-release.aab",
+            skip_upload_apk: true,
+            skip_upload_metadata: true,
+            skip_upload_images: true,
+            skip_upload_screenshots: true
+        )
+    end
+
+
+    lane :deployInternalTestAndroid do |options|
+        gradle(task: 'clean')
+        gradle(
+              task: ":androidApp:bundleRelease",
+              properties: {
+                  'versionNum' => androidVersionNum
+              }
+       )
+
+        supply(
+            package_name: "dev.johnoreilly.confetti",
+            track: "internal",
+            aab_paths: [
+                "androidApp/build/outputs/bundle/release/androidApp-release.aab"
+            ],
+            skip_upload_apk: true,
+            skip_upload_metadata: true,
+            skip_upload_images: true,
+            skip_upload_screenshots: true
+        )
+    end
+
+    lane :deployInternalTestWear do |options|
+        gradle(task: 'clean')
+        gradle(
+              task: ":wearApp:bundleRelease",
+              properties: {
+                  'versionNum' => wearVersionNum
+              }
+        )
+
+        supply(
+            package_name: "dev.johnoreilly.confetti",
+            track: "wear:internal",
+            aab_paths: [
+                "wearApp/build/outputs/bundle/release/wearApp-release.aab"
+            ],
+            skip_upload_apk: true,
+            skip_upload_metadata: true,
+            skip_upload_images: true,
+            skip_upload_screenshots: true
+        )
+
+    end
+
+    lane :buildApp do |options|
+        gradle(task: 'clean')
+        gradle(
+              task: ":androidApp:bundleRelease",
+              properties: {
+                  'versionNum' => androidVersionNum
+              }
+        )
+    end
+
+    lane :buildWearApp do |options|
+        gradle(task: 'clean')
+        gradle(
+              task: ":wearApp:bundleRelease",
+              properties: {
+                  'versionNum' => wearVersionNum
+              }
+        )
+    end
+
+    lane :buildAppApk do |options|
+        gradle(task: 'clean')
+        gradle(
+              task: ":androidApp:assembleRelease",
+              properties: {
+                  'versionNum' => androidVersionNum
+              }
+        )
+    end
+
+
+    desc "Promote app from alpha to production in Play Store"
+    lane :promoteAppToProd do |options|
+
+        supply(
+            package_name: "dev.johnoreilly.confetti",
+            track: "internal",
+            track_promote_to: "production",
+            skip_upload_apk: true,
+            skip_upload_metadata: true,
+            skip_upload_images: true,
+            skip_upload_screenshots: true,
+            skip_upload_changelogs: true
+        )
+    end
+
+
+  # You can define as many lanes as you want
+
+  after_all do |lane|
+    # This block is called, only if the executed lane was successful
+  end
+
+  error do |lane, exception|
+    # slack(
+    #   message: exception.message,
+    #   success: false
+    # )
+  end
+end

@@ -1,0 +1,32 @@
+query GetBookmarks {
+    bookmarks {
+        sessionIds
+    }
+}
+
+query GetBookmarkedSessions {
+    config {
+        id
+        timezone
+        days
+        name
+        timezone
+    }
+    bookmarkConnection {
+        nodes {
+            ...SessionDetails
+        }
+    }
+}
+
+mutation AddBookmark($sessionId: String!) {
+    addBookmark(sessionId: $sessionId) {
+        sessionIds
+    }
+}
+
+mutation RemoveBookmark($sessionId: String!) {
+    removeBookmark(sessionId: $sessionId) {
+        sessionIds
+    }
+}

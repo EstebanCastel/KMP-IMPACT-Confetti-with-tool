@@ -1,0 +1,12 @@
+{
+  "diff": {
+    "baseSha": "2f437031cc816066fd32c67a4446c1d7ed085dd2",
+    "headSha": "a5512b7ab966eb020f601fabe3888aa1e880b2c2",
+    "added": [],
+    "removed": [],
+    "updated": [],
+    "totalChanges": 0
+  },
+  "impacts": {},
+  "markdown": "<!-- dependency-analysis-bot -->\n## 🔍 Análisis de Dependencias\n\n✅ No se detectaron cambios en las dependencias de este PR.\n\n> 🤖 Pipeline ejecutado automáticamente · Commit: `a5512b7`"
+}

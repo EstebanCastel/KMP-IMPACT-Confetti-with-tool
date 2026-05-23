@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Confetti</string>
+
+
+    <string name="schedule">Programme</string>
+    <string name="sessions">Sessions</string>
+    <string name="speakers">Intervenants</string>
+    <string name="rooms">Salles</string>
+    <string name="google_sign_out_success_message">Déconnecté !</string>
+    <string name="google_sign_in_prompt_message">Enregistrez vous pour sauvegarder vos signets.</string>
+    <string name="google_sign_in_prompt_already_signed_in_message">Déjà enregistré !</string>
+    <string name="upcoming_sessions">Sessions à venir</string>
+    <string name="past_sessions">Sessions passées</string>
+    <string name="settings">Paramètres</string>
+    <string name="no_upcoming">Pas de sessions à venir</string>
+    <string name="no_past">Pas de sessions passées</string>
+    <string name="all_bookmarks">Tous les signets</string>
+    <string name="now">Maintenant</string>
+    <string name="conference_days">Jours de conférence</string>
+    <string name="settings_change_conference">Change Conference</string>
+    <string name="settings_refresh">Refresh</string>
+    <string name="settings_sign_in">Sign In</string>
+    <string name="settings_sign_out">Sign Out</string>
+    <string name="settings_action_sign_out">Sign Out</string>
+    <string name="settings_sign_out_chip_content_description">Logged in as %1s</string>
+    <string name="settings_version">Version: %1s</string>
+    <string name="settings_empty_name">empty name</string>
+    <string name="home_bookmarked_sessions">Bookmarked Sessions</string>
+    <string name="home_settings_content_description">Settings</string>
+    <string name="settings_allow_lte">Autoriser le LTE</string>
+    <string name="settings_show_networks">Afficher les réseaux</string>
+    <string name="settings_show_networks_and_data">Afficher les réseaux et la data</string>
+    <string name="settings_hide_networks">Masquer les réseaux</string>
+</resources>

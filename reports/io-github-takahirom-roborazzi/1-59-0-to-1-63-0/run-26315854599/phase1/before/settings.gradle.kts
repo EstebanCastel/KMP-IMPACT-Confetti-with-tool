@@ -1,0 +1,63 @@
+@file:Suppress("UnstableApiUsage")
+
+enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
+
+pluginManagement {
+    plugins {
+        id("io.gitlab.arturbosch.detekt") version "1.23.7" apply false
+        id("org.jetbrains.kotlinx.kover") version "0.9.8" apply false
+        id("com.google.devtools.ksp") version "2.3.2" apply false
+    }
+
+    listOf(repositories, dependencyResolutionManagement.repositories).forEach {
+        it.apply {
+            google {
+                content {
+                    includeGroupByRegex(".*google.*")
+                    includeGroupByRegex(".*android.*")
+                }
+            }
+            mavenCentral()
+            maven("https://maven.pkg.jetbrains.space/kotlin/p/wasm/experimental")
+            exclusiveContent {
+                forRepository { it.maven("https://storage.googleapis.com/apollo-snapshots/m2") }
+                filter {
+                    includeVersionByRegex("com.apollographql.execution", ".*", ".*SNAPSHOT.*")
+                }
+            }
+        }
+    }
+
+    resolutionStrategy {
+        eachPlugin {
+            when (requested.id.id) {
+                // Appengine plugin doesn't publish the marker
+                "com.google.cloud.tools.appengine" -> useModule("com.google.cloud.tools:appengine-gradle-plugin:${requested.version}")
+            }
+        }
+    }
+}
+
+rootProject.name = "Confetti"
+include(":androidApp")
+//include(":androidBenchmark")
+//include(":automotiveApp")
+include(":common:car")
+include(":shared")
+include(":backend")
+include(":backend:service-graphql")
+include(":backend:datastore")
+include(":backend:service-import")
+include(":backend:terraform")
+include(":landing-page")
+include(":wearApp")
+//include(":wearBenchmark")
+include(":compose-desktop")
+include(":compose-web")
+include(":proto")
+
+check(JavaVersion.current().isCompatibleWith(JavaVersion.VERSION_17)) {
+    "This project needs to be run with Java 17 or higher (found: ${JavaVersion.current()})."
+}
+
+includeBuild("build-logic")

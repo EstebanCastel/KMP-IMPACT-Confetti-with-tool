@@ -1,0 +1,21 @@
+{
+  "before_dir": "/tmp/output/phase1/before",
+  "after_dir": "/tmp/output/phase1/after",
+  "version_change": {
+    "dependency_group": "org.jetbrains.kotlinx",
+    "version_key": "kotlinx-coroutines",
+    "before": "0.6.2",
+    "after": "0.8.0"
+  },
+  "init_script_injected": false,
+  "detekt_reports": {},
+  "kover_reports": {},
+  "compilation_after": {
+    "status": "failure",
+    "errors": [],
+    "tasks": [
+      ":shared:compileKotlinMetadata"
+    ]
+  },
+  "compile_targets": {}
+}

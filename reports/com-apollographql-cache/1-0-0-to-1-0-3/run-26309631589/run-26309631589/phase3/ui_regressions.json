@@ -1,0 +1,13 @@
+{
+  "status": "skipped",
+  "blocked_reason": "",
+  "before_screens": [],
+  "after_screens": [],
+  "diffs": [],
+  "activity_coverage_before": {},
+  "activity_coverage_after": {},
+  "nodes_before": 0,
+  "nodes_after": 0,
+  "structures_before": 0,
+  "structures_after": 0
+}

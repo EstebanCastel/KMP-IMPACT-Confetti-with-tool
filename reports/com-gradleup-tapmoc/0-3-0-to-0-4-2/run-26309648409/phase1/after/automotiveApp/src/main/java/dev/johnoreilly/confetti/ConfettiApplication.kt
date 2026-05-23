@@ -1,0 +1,43 @@
+package dev.johnoreilly.confetti
+
+import android.app.Application
+import com.google.firebase.FirebaseApp
+import com.google.firebase.crashlytics.crashlytics
+import com.google.firebase.crashlytics.setCustomKeys
+import com.google.firebase.Firebase
+import dev.johnoreilly.confetti.di.appModule
+import dev.johnoreilly.confetti.di.initKoin
+import org.koin.android.ext.koin.androidContext
+import org.koin.android.ext.koin.androidLogger
+
+class ConfettiApplication : Application() {
+
+    private val isFirebaseInstalled
+        get() = try {
+            FirebaseApp.getInstance()
+            true
+        } catch (ise: IllegalStateException) {
+            false
+        }
+
+    override fun onCreate() {
+        super.onCreate()
+
+        if (isFirebaseInstalled) {
+            if (!BuildConfig.DEBUG) {
+                Firebase.crashlytics.setCrashlyticsCollectionEnabled(true)
+                Firebase.crashlytics.setCustomKeys {
+                    key("appName", "automotiveApp")
+                }
+            } else {
+                Firebase.crashlytics.setCrashlyticsCollectionEnabled(false)
+            }
+        }
+
+        initKoin {
+            androidLogger()
+            androidContext(this@ConfettiApplication)
+            modules(appModule)
+        }
+    }
+}

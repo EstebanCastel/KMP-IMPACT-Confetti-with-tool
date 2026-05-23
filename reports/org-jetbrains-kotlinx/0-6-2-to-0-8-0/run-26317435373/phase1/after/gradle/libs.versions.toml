@@ -1,0 +1,245 @@
+[versions]
+kotlin = "2.2.21"
+ksp = "2.2.21-2.0.0"
+kotlinx-coroutines = "0.8.0"
+kotlinx-datetime = "0.8.0"
+kotlinx-serialization = "1.8.1"
+apollo-kotlin-execution = "0.1.2"
+tapmoc = "0.3.0"
+
+agp = "8.13.1"
+activity-compose = "1.12.0"
+androidx-lifecycle = "2.10.0"
+androidx-datastore = "1.2.0"
+apollo = "4.3.3"
+apollo-cache = "1.0.0"
+compose = "1.10.6"
+compose-hot-reload = "1.0.0"
+composeLifecyleRuntime="2.9.6"
+compose-multiplatform = "1.9.3"
+compose-material3 = "1.4.0"
+composeWindowSize = "0.5.0"
+credentials = "1.5.0"
+decompose = "3.4.0"
+doistx-normalize = "1.2.0"
+essenty = "2.5.0"
+googleid = "1.1.1"
+horologist = "0.8.2-alpha"
+io-coil-kt = "2.7.0"
+io-coil3-kt = "3.3.0"
+kermit = "2.0.8"
+kmmbridge = "1.2.1"
+kotlin-csv = "1.10.0"
+koin = "4.1.1"
+kotlinx-coroutines-play-services = "1.10.2"
+lifecycle = "2.10.0"
+lifecycle-livedata-ktx = "2.10.0"
+materialkolor = "4.0.5"
+multiplatform-settings = "1.3.0"
+nav-compose = "2.9.6"
+okio = "3.16.4"
+permissions = "0.20.1"
+protolayout = "1.4.0"
+robolectric = "4.16.1"
+room = "2.8.4"
+tiles-tooling-preview = "1.6.0"
+wear = "1.4.0"
+wear-watchface = "1.3.0"
+wear-compose = "1.6.1"
+wearPhoneInteractions = "1.1.0"
+work-runtime-ktx = "2.11.0"
+spring = "3.5.3"
+generativeai = "0.9.0-1.1.0"
+buildkonfig = "0.17.1"
+roborazzi = "1.59.0"
+screenshot = "0.0.1-alpha14"
+composeai-preview = "0.9.1"
+
+
+[libraries]
+activity-compose = { module = "androidx.activity:activity-compose", version.ref = "activity-compose" }
+androidx-benchmarkmacro = "androidx.benchmark:benchmark-macro-junit4:1.4.1"
+androidx-complications-rendering = { module = "androidx.wear.watchface:watchface-complications-rendering", version = "1.3.0-alpha07"}
+androidx-compose-ui-tooling = { module = "androidx.wear.compose:compose-ui-tooling", version.ref = "wear-compose" }
+androidx-credentials = { module = "androidx.credentials:credentials", version.ref = "credentials" }
+androidx-credentials-play-services-auth = { module = "androidx.credentials:credentials-play-services-auth", version.ref = "credentials" }
+androidx-datastore = { module = "androidx.datastore:datastore", version.ref = "androidx-datastore" }
+androidx-datastore-preferences = { module = "androidx.datastore:datastore-preferences", version.ref = "androidx-datastore" }
+androidx-lifecycle-livedata-ktx = { module = "androidx.lifecycle:lifecycle-livedata-ktx", version.ref = "lifecycle-livedata-ktx" }
+androidx-lifecycle-process = { module = "androidx.lifecycle:lifecycle-process", version.ref = "androidx-lifecycle" }
+androidx-lifecycle-viewmodel-ktx = { module = "androidx.lifecycle:lifecycle-viewmodel-ktx", version.ref = "androidx-lifecycle" }
+androidx-protolayout-expression = { module = "androidx.wear.protolayout:protolayout-expression", version.ref = "protolayout" }
+androidx-protolayout-expression-pipeline = { module = "androidx.wear.protolayout:protolayout-expression-pipeline", version.ref = "protolayout" }
+androidx-protolayout-material = { module = "androidx.wear.protolayout:protolayout-material", version.ref = "protolayout" }
+androidx-protolayout-material3 = { module = "androidx.wear.protolayout:protolayout-material3", version = "1.3.0" }
+androidx-protolayout-proto = { module = "androidx.wear.protolayout:protolayout-proto", version.ref = "protolayout" }
+androidx-tiles-tooling-preview = { module = "androidx.wear.tiles:tiles-tooling-preview", version.ref = "tiles-tooling-preview" }
+androidx-tiles-tooling = { module = "androidx.wear.tiles:tiles-tooling", version.ref = "tiles-tooling-preview" }
+androidx-wear = { module = "androidx.wear:wear", version.ref = "wear" }
+androidx-wear-phone-interactions = { module = "androidx.wear:wear-phone-interactions", version.ref = "wearPhoneInteractions" }
+androidx-work-runtime-ktx = { module = "androidx.work:work-runtime-ktx", version.ref = "work-runtime-ktx" }
+androidx-work-testing = { module = "androidx.work:work-testing", version.ref = "work-runtime-ktx" }
+lifecyle-runtime = { module = "org.jetbrains.androidx.lifecycle:lifecycle-runtime-compose", version.ref = "composeLifecyleRuntime" }
+apollo-adapters = { module = "com.apollographql.apollo:apollo-adapters" }
+apollo-normalized-cache-in-memory = { module = "com.apollographql.cache:normalized-cache", version.ref = "apollo-cache" }
+apollo-normalized-cache-sqlite = { module = "com.apollographql.cache:normalized-cache-sqlite", version.ref = "apollo-cache" }
+apollo-normalized-cache-compiler-plugin = { module = "com.apollographql.cache:normalized-cache-apollo-compiler-plugin", version.ref = "apollo-cache" }
+apollo-runtime = { module = "com.apollographql.apollo:apollo-runtime" }
+apollo-execution-spring = { module = "com.apollographql.execution:apollo-execution-spring", version.ref = "apollo-kotlin-execution" }
+apollo-execution-reporting = { module = "com.apollographql.execution:apollo-execution-reporting", version.ref = "apollo-kotlin-execution" }
+apollo-execution-gradle-plugin = { module = "com.apollographql.execution:apollo-execution-gradle-plugin", version.ref = "apollo-kotlin-execution" }
+permissions-compose = { module = "dev.icerock.moko:permissions-compose", version.ref = "permissions" }
+permissions-notifications = { module = "dev.icerock.moko:permissions-notifications", version.ref = "permissions" }
+permissions = { module = "dev.icerock.moko:permissions", version.ref = "permissions" }
+spring-boot = { module = "org.springframework.boot:spring-boot", version.ref = "spring" }
+spring-boot-starter-logging = { module = "org.springframework.boot:spring-boot-starter-logging", version.ref = "spring" }
+spring-webflux = "org.springframework:spring-webflux:6.2.5"
+spring-boot-autoconfigure = { module = "org.springframework.boot:spring-boot-autoconfigure", version.ref = "spring" }
+spring-boot-starter-webflux = { module = "org.springframework.boot:spring-boot-starter-webflux", version.ref = "spring" }
+ktor-server-netty = "io.ktor:ktor-server-netty:2.3.13"
+apollo-annotations = { module = "com.apollographql.apollo:apollo-annotations", version.ref = "apollo" }
+apollo-tooling = { module = "com.apollographql.apollo:apollo-tooling", version.ref = "apollo" }
+apollo-testing = { module = "com.apollographql.apollo:apollo-testing-support" }
+apollo-debug-server = { module = "com.apollographql.apollo:apollo-debug-server" }
+atomicfu = "org.jetbrains.kotlinx:atomicfu:0.27.0"
+bare-graphQL = "net.mbonnin.bare-graphql:bare-graphql:0.0.2"
+car-app-auto = "androidx.car.app:app:1.4.0"
+car-app-automotive = "androidx.car.app:app-automotive:1.4.0"
+coil-base = { module = "io.coil-kt:coil-base", version.ref = "io-coil-kt" }
+coil-compose = { module = "io.coil-kt:coil-compose", version.ref = "io-coil-kt" }
+coil-svg = { module = "io.coil-kt:coil-svg", version.ref = "io-coil-kt" }
+coil-test = { module = "io.coil-kt:coil-test", version.ref = "io-coil-kt" }
+coil3-compose = { module = "io.coil-kt.coil3:coil-compose", version.ref = "io-coil3-kt" }
+coil3-network-ktor = { module = "io.coil-kt.coil3:coil-network-ktor3", version.ref = "io-coil3-kt" }
+ktor-client-java = { group = "io.ktor", name = "ktor-client-java", version = "3.3.0" }
+materialkolor = { module = "com.materialkolor:material-kolor", version.ref = "materialkolor" }
+
+compose-material = { module = "androidx.compose.material:material", version.ref = "compose" }
+compose-material-icons-extended = { module = "androidx.compose.material:material-icons-extended", version = "1.7.8" }
+compose-navigation = { module = "androidx.navigation:navigation-compose", version.ref = "nav-compose" }
+compose-ui = { module = "androidx.compose.ui:ui", version.ref = "compose" }
+compose-ui-manifest = { module = "androidx.compose.ui:ui-test-manifest", version.ref = "compose" }
+compose-ui-test-junit4 = { module = "androidx.compose.ui:ui-test-junit4", version.ref = "compose" }
+compose-ui-tooling = { module = "androidx.compose.ui:ui-tooling", version.ref = "compose" }
+compose-ui-tooling-preview = { module = "androidx.compose.ui:ui-tooling-preview", version.ref = "compose" }
+compose-ui-text-google-fonts = { module = "androidx.compose.ui:ui-text-google-fonts", version.ref = "compose" }
+decompose-decompose = { module = "com.arkivanov.decompose:decompose", version.ref = "decompose" }
+decompose-extensions-compose = { module = "com.arkivanov.decompose:extensions-compose", version.ref = "decompose" }
+decompose-extensions-compose-experimental = { module = "com.arkivanov.decompose:extensions-compose-experimental", version.ref = "decompose" }
+doistx-normalize = { module = "com.doist.x:normalize", version.ref = "doistx-normalize" }
+essenty-lifecycle = { module = "com.arkivanov.essenty:lifecycle", version.ref = "essenty" }
+essenty-backhandler = { module = "com.arkivanov.essenty:back-handler", version.ref = "essenty" }
+desugar = "com.android.tools:desugar_jdk_libs:2.1.5"
+firebase-admin = { module = "com.google.firebase:firebase-admin", version = "9.4.3" }
+firebase-analytics = { module = "com.google.firebase:firebase-analytics" }
+firebase-auth = { module = "com.google.firebase:firebase-auth" }
+firebase-bom = "com.google.firebase:firebase-bom:33.16.0"
+firebase-crashlytics = { module = "com.google.firebase:firebase-crashlytics" }
+firebase-performance = { module = "com.google.firebase:firebase-perf" }
+firebase-mpp-auth = "dev.gitlive:firebase-auth:1.13.0"
+google-cloud-bom = "com.google.cloud:libraries-bom:26.63.0"
+google-cloud-storage = { module = "com.google.cloud:google-cloud-storage" }
+google-cloud-datastore = "com.google.cloud:google-cloud-datastore:2.25.1"
+googleid = { module = "com.google.android.libraries.identity.googleid:googleid", version.ref = "googleid" }
+horologist-compose-layout = { module = "com.google.android.horologist:horologist-compose-layout", version.ref = "horologist" }
+horologist-compose-tools = { module = "com.google.android.horologist:horologist-compose-tools", version.ref = "horologist" }
+horologist-datalayer = { module = "com.google.android.horologist:horologist-datalayer", version.ref = "horologist" }
+horologist-datalayer-phone = { module = "com.google.android.horologist:horologist-datalayer-phone", version.ref = "horologist" }
+horologist-datalayer-watch = { module = "com.google.android.horologist:horologist-datalayer-watch", version.ref = "horologist" }
+horologist-images-coil = { module = "com.google.android.horologist:horologist-images-coil", version.ref = "horologist" }
+horologist-networkawareness-core = { module = "com.google.android.horologist:horologist-network-awareness", version.ref = "horologist" }
+horologist-networkawareness-db = { module = "com.google.android.horologist:horologist-network-awareness-db", version.ref = "horologist" }
+horologist-networkawareness-okhttp = { module = "com.google.android.horologist:horologist-network-awareness-okhttp", version.ref = "horologist" }
+horologist-tiles = { module = "com.google.android.horologist:horologist-tiles", version.ref = "horologist" }
+horologist-roboscreenshots = { module = "com.google.android.horologist:horologist-roboscreenshots", version.ref = "horologist" }
+jsonpath = "com.eygraber:jsonpathkt-kotlinx:3.0.2"
+jsoup = "org.jsoup:jsoup:1.18.3"
+junit = "junit:junit:4.13.2"
+kaml = "com.charleskorn.kaml:kaml:0.83.0"
+koin-android = { module = "io.insert-koin:koin-android", version.ref = "koin" }
+koin-workmanager = { module = "io.insert-koin:koin-androidx-workmanager", version.ref = "koin" }
+koin-compose = { module = "io.insert-koin:koin-androidx-compose", version.ref = "koin" }
+koin-compose-multiplatform = { module = "io.insert-koin:koin-compose", version.ref = "koin" }
+koin-core = { module = "io.insert-koin:koin-core", version.ref = "koin" }
+koin-test = { module = "io.insert-koin:koin-test", version.ref = "koin" }
+koin-test-junit4 = { module = "io.insert-koin:koin-test-junit4", version.ref = "koin" }
+kotlin-csv = { module = "com.jsoizo:kotlin-csv-jvm", version.ref = "kotlin-csv" }
+kotlin-test = { module = "org.jetbrains.kotlin:kotlin-test" }
+kotlinx-coroutines-core = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-core", version.ref = "kotlinx-coroutines" }
+kotlinx-coroutines-reactor = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-reactor", version.ref = "kotlinx-coroutines" }
+kotlinx-coroutines-play-services = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-play-services", version.ref = "kotlinx-coroutines-play-services" }
+kotlinx-coroutines-swing = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-swing", version.ref = "kotlinx-coroutines" }
+kotlinx-datetime = { module = "org.jetbrains.kotlinx:kotlinx-datetime", version.ref = "kotlinx-datetime" }
+kotlinx-serialization = { module = "org.jetbrains.kotlinx:kotlinx-serialization-json", version.ref = "kotlinx-serialization" }
+ktor-cio = "io.ktor:ktor-server-cio:2.3.13"
+ktor-status-pages = "io.ktor:ktor-server-status-pages:2.3.13"
+lifecycle-runtime-compose = { module = "androidx.lifecycle:lifecycle-runtime-compose", version.ref = "lifecycle" }
+material3-core = { module = "androidx.compose.material3:material3", version.ref = "compose-material3" }
+compose-window-size = { module = "dev.chrisbanes.material3:material3-window-size-class-multiplatform", version.ref = "composeWindowSize" }
+
+multiplatform-settings = { module = "com.russhwolf:multiplatform-settings", version.ref = "multiplatform-settings" }
+multiplatform-settings-serialization = { module = "com.russhwolf:multiplatform-settings-coroutines", version.ref = "multiplatform-settings" }
+multiplatform-settings-coroutines = { module = "com.russhwolf:multiplatform-settings-serialization", version.ref = "multiplatform-settings" }
+multiplatform-settings-make-observable  = { module = "com.russhwolf:multiplatform-settings-make-observable", version.ref = "multiplatform-settings" }
+multiplatform-settings-datastore = { module = "com.russhwolf:multiplatform-settings-datastore", version.ref = "multiplatform-settings" }
+okhttp = "com.squareup.okhttp3:okhttp:5.1.0"
+okhttp-coroutines = "com.squareup.okhttp3:okhttp-coroutines:5.1.0"
+okhttp-logging-interceptor = "com.squareup.okhttp3:logging-interceptor:5.1.0"
+play-services-auth = "com.google.android.gms:play-services-auth:21.3.0"
+plugin-kotlin = { module = "org.jetbrains.kotlin:kotlin-gradle-plugin", version.ref = "kotlin" }
+plugin-android-application = { module = "com.android.tools.build:gradle", version.ref = "agp" }
+plugin-apollo = { module = "com.apollographql.apollo:apollo-gradle-plugin", version.ref = "apollo" }
+plugin-firebase-crashlytics = { module = "com.google.firebase:firebase-crashlytics-gradle", version = "3.0.4" }
+plugin-google-services = "com.google.gms:google-services:4.4.3"
+plugin-kotlin-serialization = { module = "org.jetbrains.kotlin:kotlin-serialization", version.ref = "kotlin" }
+plugin-kotlin-spring = { module = "org.jetbrains.kotlin:kotlin-allopen", version.ref = "kotlin" }
+plugin-ksp = { module = "com.google.devtools.ksp:symbol-processing-gradle-plugin", version.ref = "ksp" }
+plugin-spring-boot = { module = "org.springframework.boot:spring-boot-gradle-plugin", version = "3.5.3" }
+plugin-wire = { module = "com.squareup.wire:wire-gradle-plugin", version = "5.3.3" }
+plugin-compose-multiplatform = { module = "org.jetbrains.compose:compose-gradle-plugin", version.ref = "compose-multiplatform" }
+roborazzi-gradle-plugin = { module = "io.github.takahirom.roborazzi:roborazzi-gradle-plugin", version.ref = "roborazzi" }
+scrimage-core = "com.sksamuel.scrimage:scrimage-core:4.3.2"
+scrimage-filters = "com.sksamuel.scrimage:scrimage-filters:4.3.2"
+snakeyaml = "org.yaml:snakeyaml:2.3"
+spring-web = "org.springframework:spring-web:6.1.14"
+stately-common = "co.touchlab:stately-common:2.1.0"
+
+okio = { module = "com.squareup.okio:okio", version.ref = "okio" }
+reflect = { module = "org.jetbrains.kotlin:kotlin-reflect", version.ref = "kotlin" }
+robolectric = { module = "org.robolectric:robolectric", version.ref = "robolectric" }
+room-runtime = { module = "androidx.room:room-runtime", version.ref = "room" }
+splash-screen = "androidx.core:core-splashscreen:1.0.1"
+test-espressocore = "androidx.test.espresso:espresso-core:3.6.1"
+test-uiautomator = "androidx.test.uiautomator:uiautomator:2.3.0"
+wear-complications-data = { module = "androidx.wear.watchface:watchface-complications-data-source-ktx", version.ref = "wear-watchface"}
+wear-compose-material3 = { module = "androidx.wear.compose:compose-material3", version.ref = "wear-compose"}
+xoxo = "net.mbonnin.xoxo:xoxo:0.4.0"
+kermit = { module = "co.touchlab:kermit", version.ref = "kermit" }
+tink = "com.google.crypto.tink:tink:1.17.0"
+jib-core = "com.google.cloud.tools:jib-core:0.27.2"
+google-cloud-run = "com.google.cloud:google-cloud-run:0.67.0"
+tapmoc = { module = "com.gradleup.tapmoc:com.gradleup.tapmoc.gradle.plugin", version.ref = "tapmoc" }
+generativeai = { module = "dev.shreyaspatil.generativeai:generativeai-google", version.ref = "generativeai" }
+
+roborazzi = { group = "io.github.takahirom.roborazzi", name = "roborazzi", version.ref = "roborazzi" }
+roborazzi-compose = { group = "io.github.takahirom.roborazzi", name = "roborazzi-compose", version.ref = "roborazzi" }
+roborazzi-rule = { group = "io.github.takahirom.roborazzi", name = "roborazzi-junit-rule", version.ref = "roborazzi" }
+
+composeai-preview-annotations = { module = "ee.schimke.composeai:preview-annotations", version.ref = "composeai-preview" }
+
+[bundles]
+multiplatform-settings = ["multiplatform-settings", "multiplatform-settings-coroutines", "multiplatform-settings-serialization", "multiplatform-settings-make-observable"]
+apollo = ["apollo-normalized-cache-in-memory", "apollo-adapters"]
+
+[plugins]
+buildkonfig = { id = "com.codingfeline.buildkonfig", version.ref = "buildkonfig" }
+kmmbridge = { id = "co.touchlab.kmmbridge", version.ref = "kmmbridge" }
+jetbrainsCompose = { id = "org.jetbrains.compose", version.ref = "compose-multiplatform" }
+compose-compiler = { id = "org.jetbrains.kotlin.plugin.compose", version.ref = "kotlin" }
+composeHotReload = { id = "org.jetbrains.compose.hot-reload", version.ref = "compose-hot-reload" }
+screenshot = { id = "com.android.compose.screenshot", version.ref = "screenshot"}
+composeai-preview = { id = "ee.schimke.composeai.preview", version.ref = "composeai-preview" }
+kgp-jvm = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin" }
+ksp = { id = "com.google.devtools.ksp", version.ref = "ksp" }
+gratatouille = { id = "com.gradleup.gratatouille", version = "0.2.1" }
+tapmoc = { id = "com.gradleup.tapmoc", version.ref = "tapmoc" }

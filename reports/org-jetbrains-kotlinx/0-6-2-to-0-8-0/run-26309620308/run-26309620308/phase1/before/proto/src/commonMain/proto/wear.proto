@@ -1,0 +1,28 @@
+syntax = "proto3";
+
+option java_package = "dev.johnoreilly.confetti.wear.proto";
+option java_multiple_files = true;
+
+message WearSettings {
+  reserved 1, 3;
+  string conference = 2;
+  optional string color_scheme = 4;
+  optional string idToken = 5;
+}
+
+message WearPreferences {
+  NetworkDetail showNetworks = 1;
+  NetworkPreferences networkPreferences = 2;
+  reserved 3;  // was Typography — dropped; Expressive is now the ship default.
+}
+
+enum NetworkDetail {
+  NETWORK_DETAIL_UNSPECIFIED = 0;
+  NETWORK_DETAIL_NONE = 1;
+  NETWORK_DETAIL_NETWORKS = 2;
+  NETWORK_DETAIL_NETWORKS_AND_DATA = 3;
+}
+
+message NetworkPreferences {
+  bool allowLte = 1;
+}

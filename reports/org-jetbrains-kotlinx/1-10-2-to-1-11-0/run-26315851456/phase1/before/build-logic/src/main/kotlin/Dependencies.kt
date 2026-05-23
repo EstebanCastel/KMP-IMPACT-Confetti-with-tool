@@ -1,0 +1,22 @@
+
+
+object AndroidSdk {
+    const val min = 25
+    const val compile = 36
+    const val target = compile
+}
+
+object WearSdk {
+    const val min = 26
+    const val compile = 36
+    const val target = 35
+}
+
+object AutomotiveSdk {
+    const val min = 29
+    const val compile = 35
+    const val target = 33
+}
+
+
+

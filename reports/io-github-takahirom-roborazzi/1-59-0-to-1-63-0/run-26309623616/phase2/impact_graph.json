@@ -1,0 +1,75 @@
+{
+  "dependency_group": "io.github.takahirom.roborazzi",
+  "version_before": "1.59.0",
+  "version_after": "1.63.0",
+  "seed_files": [],
+  "impacted_files": [],
+  "expect_actual_pairs": [
+    {
+      "expect_fqcn": "dev.johnoreilly.confetti.di.platformModule",
+      "expect_file": "/tmp/output/phase1/before/shared/src/commonMain/kotlin/dev/johnoreilly/confetti/di/Koin.kt",
+      "actual_files": []
+    },
+    {
+      "expect_fqcn": "dev.johnoreilly.confetti.di.getNormalizedCacheFactory",
+      "expect_file": "/tmp/output/phase1/before/shared/src/commonMain/kotlin/dev/johnoreilly/confetti/di/Koin.kt",
+      "actual_files": [
+        "/tmp/output/phase1/before/shared/src/androidMain/kotlin/dev/johnoreilly/confetti/di/KoinAndroid.kt",
+        "/tmp/output/phase1/before/shared/src/iosMain/kotlin/dev/johnoreilly/confetti/di/KoiniOS.kt",
+        "/tmp/output/phase1/before/shared/src/jvmMain/kotlin/dev/johnoreilly/confetti/di/KoinJVM.kt",
+        "/tmp/output/phase1/before/shared/src/wasmJsMain/kotlin/dev/johnoreilly/confetti/di/KoinWasmJs.kt"
+      ]
+    },
+    {
+      "expect_fqcn": "dev.johnoreilly.confetti.permissions.rememberNotificationPermissionState",
+      "expect_file": "/tmp/output/phase1/before/shared/src/commonMain/kotlin/dev/johnoreilly/confetti/permissions/rememberNotificationPermissionState.kt",
+      "actual_files": [
+        "/tmp/output/phase1/before/shared/src/jvmMain/kotlin/dev/johnoreilly/confetti/permissions/rememberNotificationPermissionState.jvm.kt",
+        "/tmp/output/phase1/before/shared/src/mobileMain/kotlin/dev/johnoreilly/confetti/permissions/rememberNotificationPermissionState.kt",
+        "/tmp/output/phase1/before/shared/src/wasmJsMain/kotlin/dev/johnoreilly/confetti/permissions/rememberNotificationPermissionState.wasmJs.kt"
+      ]
+    },
+    {
+      "expect_fqcn": "dev.johnoreilly.confetti.ui.predictiveBackAnimation",
+      "expect_file": "/tmp/output/phase1/before/shared/src/commonMain/kotlin/dev/johnoreilly/confetti/ui/PredictiveBackAnimation.kt",
+      "actual_files": [
+        "/tmp/output/phase1/before/shared/src/androidMain/kotlin/dev/johnoreilly/confetti/ui/PredictiveBackAnimation.kt",
+        "/tmp/output/phase1/before/shared/src/iosMain/kotlin/dev/johnoreilly/confetti/ui/PredictiveBackAnimation.ios.kt",
+        "/tmp/output/phase1/before/shared/src/jvmMain/kotlin/dev/johnoreilly/confetti/ui/PredictiveBackAnimation.kt",
+        "/tmp/output/phase1/before/shared/src/wasmJsMain/kotlin/dev/johnoreilly/confetti/ui/PredictiveBackAnimation.kt"
+      ]
+    },
+    {
+      "expect_fqcn": "dev.johnoreilly.confetti.utils.registerApolloDebugServer",
+      "expect_file": "/tmp/output/phase1/before/shared/src/commonMain/kotlin/dev/johnoreilly/confetti/utils/ApolloDebugServer.kt",
+      "actual_files": [
+        "/tmp/output/phase1/before/shared/src/androidDebug/kotlin/dev/johnoreilly/confetti/utils/ApolloDebugServer.kt",
+        "/tmp/output/phase1/before/shared/src/androidRelease/kotlin/dev/johnoreilly/confetti/utils/ApolloDebugServer.kt",
+        "/tmp/output/phase1/before/shared/src/iosMain/kotlin/dev/johnoreilly/confetti/utils/ApolloDebugServer.kt",
+        "/tmp/output/phase1/before/shared/src/jvmMain/kotlin/dev/johnoreilly/confetti/utils/ApolloDebugServer.kt",
+        "/tmp/output/phase1/before/shared/src/wasmJsMain/kotlin/dev/johnoreilly/confetti/utils/ApolloDebugServer.kt"
+      ]
+    },
+    {
+      "expect_fqcn": "dev.johnoreilly.confetti.utils.unregisterApolloDebugServer",
+      "expect_file": "/tmp/output/phase1/before/shared/src/commonMain/kotlin/dev/johnoreilly/confetti/utils/ApolloDebugServer.kt",
+      "actual_files": [
+        "/tmp/output/phase1/before/shared/src/androidDebug/kotlin/dev/johnoreilly/confetti/utils/ApolloDebugServer.kt",
+        "/tmp/output/phase1/before/shared/src/androidRelease/kotlin/dev/johnoreilly/confetti/utils/ApolloDebugServer.kt",
+        "/tmp/output/phase1/before/shared/src/iosMain/kotlin/dev/johnoreilly/confetti/utils/ApolloDebugServer.kt",
+        "/tmp/output/phase1/before/shared/src/jvmMain/kotlin/dev/johnoreilly/confetti/utils/ApolloDebugServer.kt",
+        "/tmp/output/phase1/before/shared/src/wasmJsMain/kotlin/dev/johnoreilly/confetti/utils/ApolloDebugServer.kt"
+      ]
+    },
+    {
+      "expect_fqcn": "com.example.common.DatabaseDriverFactory",
+      "expect_file": "/tmp/output/phase1/before/tools/kmp-impact-analyzer/tests/fixtures/sample_kotlin/ExpectClass.kt",
+      "actual_files": [
+        "/tmp/output/phase1/before/tools/kmp-impact-analyzer/tests/fixtures/sample_kotlin/ActualAndroid.kt"
+      ]
+    }
+  ],
+  "total_project_files": 304,
+  "total_impacted": 0,
+  "ksp_edges_added": 0
+}
